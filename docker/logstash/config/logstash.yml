@@ -1,0 +1,7 @@
+http.host: 0.0.0.0
+pipeline.ecs_compatibility: v1
+xpack.monitoring.elasticsearch.hosts:
+- http://elasticsearch:9200
+xpack.monitoring.elasticsearch.password: Nguyen1207@@
+xpack.monitoring.elasticsearch.username: elastic
+xpack.monitoring.enabled: false
